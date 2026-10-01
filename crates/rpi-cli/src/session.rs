@@ -48,7 +48,7 @@ use rpi_harness::types::{
     HarnessTool, HarnessToolExecution, ToolReplay,
 };
 use rpi_tools::{
-    create_bash_tool, create_edit_tool, create_powershell_tool, create_read_tool,
+    create_bash_tool, create_edit_tool, create_read_tool,
     create_write_tool, ExecutionToolContext, MutationQueueRegistry, OsExecutionEnv,
 };
 
